@@ -1,8 +1,8 @@
 {
-  "name": "Daydream",
-  "version": "2.1.2",
+  "name": "Bequem-Recorder",
+  "version": "1.0.0",
   "manifest_version": 2,
-  "description": "A chrome extension to record your actions into a nightmare script.",
+  "description": "A chrome extension to record your actions into chrome auto action script.",
   "permissions": [
     "storage",
     "webNavigation",
@@ -12,7 +12,7 @@
   "content_security_policy": "script-src 'self' 'unsafe-eval'; https://*.segment.com https://*.mxpnl.com; object-src 'self'",
   "browser_action": {
     "default_icon": "images/icon-black.png",
-    "default_title": "Daydream"
+    "default_title": "Bequem-Recorder"
   },
   "background": {
     "scripts": [ "background.js" ],

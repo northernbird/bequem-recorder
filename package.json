@@ -1,7 +1,7 @@
 {
   "name": "bequem-recorder",
   "version": "1.0.0",
-  "description": "A chrome extension to record your actions into chrome headless script",
+  "description": "A chrome extension to record your actions into chrome auto action script.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/northernbird/bequem-recorder.git"
